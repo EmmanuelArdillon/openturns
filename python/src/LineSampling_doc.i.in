@@ -106,7 +106,7 @@ The global probability :math:`P_f` is computed from all the :math:`p_{\vect{z_k}
 
 The adaptive variant of the algorithm consists in updating the important direction :math:`\vect{\alpha}`
 by the selecting the direction given by the nearest intersection with the frontiers of :math:`\cD_f` from the origin
-as given by the root search for each new line explored.
+as given by the root search for each new line explored. TODO : link to DirectionalSampling
 
 Parameters
 ----------
